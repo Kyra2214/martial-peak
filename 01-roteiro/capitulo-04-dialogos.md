@@ -1,3 +1,7 @@
+> **AVISO DE FASE 4 — MATERIAL LEGADO EM REVISÃO:** este arquivo não é fonte de cânone nem roteiro aprovado. Ele contém mecânicas, NPCs, diálogos e/ou acontecimentos ainda não verificados e pode contradizer o escopo atual. Consulte [o registro canônico](../00-planejamento/FASE-4-REGISTRO-CANONICO.md) e o [roteiro mestre de trabalho](ROTEIRO-MESTRE-TEMPORADA-1-V1.md). Não implementar nem promover seus detalhes a cânone antes da revisão.
+
+---
+
 # Capítulo 4: Treino em segredo (diálogos)
 
 Diálogos originais para o jogo. Nomes e detalhes do manhwa são [VERIFICAR]. A pílula de teste e o tutorial do puzzle são design próprio do jogo.
