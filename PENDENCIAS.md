@@ -29,10 +29,11 @@ Atualizado em 2026-10-14 durante a Fase 4. A criação dos documentos iniciais d
 
 ### Bloqueios reais antes de concluir
 
-- [ ] Fixar a edição/idioma do manhua usado como referência principal, com URL e regra de numeração.
-- [ ] Verificar a cronologia detalhada diretamente no manhua; os capítulos da novel são apenas âncoras de pesquisa.
+- [x] Selecionar a edição de referência para numeração: WebNovel/Pikapi, catálogo https://www.webnovel.com/comic/14866013705882901/catalog; capítulos são registrados pelo identificador do manhua, separado da novel.
+- [ ] Resolver acesso reproduzível aos quadros da edição selecionada; as páginas localizadas exigem login ou não expõem as imagens na consulta textual.
+- [ ] Verificar a cronologia detalhada diretamente nos quadros do manhua; os capítulos da novel e índices comunitários são apenas âncoras de pesquisa. Ver [registro de fonte e auditoria inicial](00-planejamento/REGISTRO-FONTE-MANHUA-E-AUDITORIA-INICIAL.md).
 - [ ] Criar matriz cena por cena com referência direta, personagens, local, estado inicial, evento, resultado canônico e estado final.
-- [ ] Confirmar a sequência visual do Livro Negro, Esqueleto Dourado, registro de temperamento corporal e queimador de incenso.
+- [ ] Confirmar visualmente a sequência do Livro Negro, Esqueleto Dourado, registro de temperamento corporal e incensário; os capítulos 8, 9, 19 e 29 foram localizados como pistas de catálogo/índice, ainda sem leitura visual confirmada.
 - [ ] Reescrever de forma definitiva os capítulos de abertura após a conferência da edição; o roteiro mestre atual é um rascunho seguro, não a versão final.
 - [ ] Revisar todos os macroarcos até a saída do Palácio Fênix Dragão e rastrear cada cena na fonte.
 - [ ] Identificar o capítulo exato do manhua correspondente ao Vale do Dragão, Sun Yu, invasão, Lago da Fênix e partida de Yang Kai.
@@ -86,7 +87,7 @@ Esses itens só podem ser reaproveitados como propostas de jogo se não alterare
 - [x] Documentado um exemplo de referência para a cena da Xiao e a pomada: ela registra as derrotas de Yang Kai, leva-o para debaixo da árvore e lhe dá a pomada; a cena pode ser curta.
 - [x] Corrigida a direção do item: **pomada de cura**, não “Pílula de Cura Ordinária Baixo” como aparece no roteiro legado.
 - [x] Criada a [Matriz de adaptação de cenas e itens](00-planejamento/MATRIZ-DE-ADAPTACAO-CENAS-E-ITENS.md), com separação entre fato canônico, condensação visual, interação e parâmetros de jogo.
-- [ ] Registrar capítulo/página/URL da edição de manhua para a cena da Xiao durante a conferência direta.
+- [ ] Registrar capítulo/página/URL da edição de manhua para a cena da Xiao durante a conferência direta. Separar essa cena da automedicação com pomada no capítulo 4 da novel, que é um evento distinto até prova em contrário; ver [registro de fonte e auditoria](00-planejamento/REGISTRO-FONTE-MANHUA-E-AUDITORIA-INICIAL.md).
 - [ ] Definir efeito numérico e quantidade do item sem os tratar como cânone.
 - [ ] Aplicar a matriz aos roteiros restantes, começando pela abertura, e retirar substituições incorretas de itens dos roteiros ativos.
 
