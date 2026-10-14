@@ -193,3 +193,38 @@ O estado final de um capítulo deve ser compatível com o estado inicial do pró
 - [ ] Valores de todos os itens e técnicas: serão fechados após a cronologia detalhada.
 
 **Critério de pronto:** qualquer futura mecânica pode ser avaliada contra este documento e a bíblia. Se conflitar com o cânone, a mecânica é que deve ser alterada.
+
+
+## Correção de direção — adaptação para jogo (decisão do usuário, 2026-10-14)
+
+**Regra central:** adaptar o manhua para uma experiência de RPG, não reproduzir cada capítulo ou quadro literalmente.
+
+- **Fidelidade narrativa não significa duração idêntica.** Preservar fatos, causas, personagens, motivações, revelações, técnicas/heranças e consequências canônicas; condensar deslocamentos, conversas repetitivas, lances de leilão, lutas menores e transições sem peso narrativo.
+- **Locais importantes continuam existindo como espaços jogáveis.** Exemplo: em um leilão, o jogador pode entrar, reconhecer o local, observar o salão, falar com personagens relevantes e acompanhar os itens decisivos; não precisa assistir a todos os lances irrelevantes nem gastar vários capítulos de jogo no evento.
+- **Manter apenas cenas que cumprem uma função.** Cada cena deve justificar pelo menos um dos seguintes: avanço de trama, desenvolvimento de personagem, apresentação de local/facção, decisão tática, aquisição de conhecimento/recurso relevante ou preparação para acontecimento posterior.
+- **Condensação com rastreabilidade.** Uma sequência de vários capítulos do manhua pode virar uma única cena, uma sequência curta ou uma transição, desde que o registro de adaptação diga quais eventos foram condensados e confirme que nenhum acontecimento essencial foi removido.
+- **Agência do jogador dentro dos limites do cânone.** O jogador pode explorar, preparar-se, conversar, escolher abordagem e enfrentar desafios compatíveis. Não pode escolher uma alternativa que contradiga um resultado canônico fixo.
+- **Conteúdo original é expansão, não substituição.** Missões opcionais e exploração podem ampliar o mundo, mas não devem criar uma causa nova para um acontecimento canônico, antecipar revelações, alterar relações essenciais ou conceder a outro personagem uma conquista que pertence a Yang Kai ou a outro personagem do cânone.
+- **Ritmo de jogo deve ser avaliado por diversão e relevância**, não pela contagem de capítulos do manhua. A duração de cada arco só será estimada depois de definir as cenas jogáveis, exploração, encontros e diálogos.
+
+### Exemplo de aplicação: leilão
+
+1. Entrada no espaço do leilão e leitura rápida do ambiente.
+2. Diálogo curto com personagens necessários para entender o motivo de Yang Kai estar ali.
+3. Mostrar apenas os itens, lances e interações que tenham consequência narrativa, econômica ou de personagem.
+4. Condensar lances comuns em montagem, resumo visual ou passagem de tempo.
+5. Jogar integralmente o momento decisivo quando houver conflito, descoberta, risco ou decisão importante.
+6. Preservar o resultado canônico e seguir para a consequência relevante, sem prolongar o evento apenas porque o manhua distribuiu a sequência por vários capítulos.
+
+### Critério obrigatório para cada bloco adaptado
+
+O roteiro deve registrar:
+- capítulos/cenas de origem do manhua;
+- fatos essenciais que precisam permanecer;
+- partes condensadas ou omitidas e o motivo;
+- espaço/local que continua explorável;
+- interação do jogador;
+- resultado canônico que não pode mudar;
+- transição para a próxima cena.
+
+Essa regra prevalece sobre qualquer interpretação anterior que exigisse adaptar cada capítulo do manhua em separado ou manter uma duração proporcional ao número de capítulos.
