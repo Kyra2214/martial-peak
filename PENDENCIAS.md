@@ -1,56 +1,69 @@
 # Pendências consolidadas — Martial Peak RPG
 
-Atualizado após a auditoria documental da Fase 0, em 2026-10-14. Esta lista substitui a lista desatualizada anterior; não significa que os itens abaixo tenham sido resolvidos.
+Atualizado em 2026-10-14 após a conclusão documental das Fases 0–3. Os itens abaixo ainda não resolvidos permanecem pendentes; esta lista não confunde planejamento macro com verificação cena por cena.
 
-## Decisões já fixadas
+## Decisões aprovadas
 
-- [x] Protagonista Yang Kai, seguindo a história original.
+- [x] Protagonista: Yang Kai, seguindo a história original.
 - [x] Fidelidade rigorosa: não alterar acontecimentos canônicos.
-- [x] Permitir exploração, treinamento e missões originais coerentes, claramente identificados e sem contradição com o cânone.
-- [x] Temporada 1 termina quando Yang Kai sai do Templo Fênix Dragão.
-- [x] Adiar escolha de engine e programação até concluir o planejamento.
+- [x] Permitir exploração, treinamento e missões originais coerentes, identificadas como conteúdo original e sem contradizer o cânone.
+- [x] Temporada 1 termina na primeira saída de Yang Kai do Palácio/Templo Fênix Dragão, depois do evento do Lago da Fênix.
+- [x] Adiar engine, programação e assets finais até consolidar roteiro e design.
+- [x] Concluir o planejamento das Fases 0, 1, 2 e 3 em documentos revisáveis.
 
-## Fase 1 — Bíblia do cânone (próxima etapa)
+## Fases de planejamento — entregues
 
-- [ ] Construir cronologia contínua desde o começo da história até a saída do Templo Fênix Dragão.
-- [ ] Registrar referência rastreável para cada evento principal, personagem, local, reino, técnica e herança relevante.
-- [ ] Separar cada informação em: cânone confirmado, relato do usuário ainda por verificar, adaptação de jogo ou conteúdo original.
-- [ ] Confirmar a grafia/tradução consistente dos nomes de personagens, locais, reinos e técnicas.
-- [ ] Verificar a ordem e a forma exatas dos eventos envolvendo o Livro Negro, Esqueleto Dourado, Corpo Dourado do Osso Orgulhoso e caldeirão do Livro Negro.
-- [ ] Verificar quais personagens acompanham Yang Kai em cada etapa e qual é o papel canônico de Su Yan.
-- [ ] Confirmar o evento de entrada e saída do Templo Fênix Dragão e definir o último acontecimento da temporada com base na fonte.
+- [x] Fase 0 — auditoria e consolidação: `00-planejamento/FASE-0-AUDITORIA.md`
+- [x] Fase 1 — bíblia inicial do cânone e registro de evidências: `00-planejamento/FASE-1-BIBLIA-CANONE.md`
+- [x] Fase 2 — design global do RPG, sem escolha de engine: `00-planejamento/FASE-2-DESIGN-GLOBAL-RPG.md`
+- [x] Fase 3 — mapa macro da Temporada 1 até a saída do Palácio Fênix Dragão: `00-planejamento/FASE-3-MAPA-NARRATIVO-TEMPORADA-1.md`
 
-## Roteiro atual — itens que exigem revisão
+## Fase 4 — Roteiro detalhado (próxima etapa)
 
-- [ ] Revisar capítulos 1–6 após a bíblia do cânone; manter diálogos inventados como diálogos originais, nunca como falas do manhwa.
-- [ ] Decidir se a rotina diária, os duelos rotativos, a coleta de ervas, o mini-chefe da floresta e o NPC Velho Zelador cabem como conteúdo secundário sem alterar a cronologia canônica.
-- [ ] Confirmar ou substituir nomes provisórios: Irmã Xiao/nome completo, discípulos A–E, instrutor, responsável do pavilhão, velho do pavilhão, ervas, mini-chefe e chefe.
-- [ ] Escrever capítulos 7 e 8 em detalhe e acrescentar todos os capítulos/sequências necessários até a saída do Templo Fênix Dragão.
-- [ ] Corrigir o resumo `01-roteiro/capitulos-02-a-08-resumo.md`: ele ainda cita pílula de teste e puzzle tutorial no capítulo 4, em conflito com os documentos mais recentes.
-- [ ] Recalcular duração total: a estimativa geral de 1–2 horas não corresponde às durações somadas dos capítulos 1–6 e não considera conteúdo opcional nem o novo escopo da temporada.
-- [ ] Criar uma linha do tempo única para dias, meses, prazo de três anos, treinamentos e eventos de cada capítulo.
+- [ ] Fixar a edição/idioma do manhua usado como referência principal e registrar sua numeração.
+- [ ] Conferir o número exato do manhua correspondente à saída após o Lago da Fênix; capítulo 843 é referência da novel, não do manhua.
+- [ ] Verificar a cronologia detalhada de todos os macroarcos diretamente na edição do manhua.
+- [ ] Criar uma matriz cena por cena: referência, personagens, local, estado inicial, acontecimento, resultado canônico e estado final.
+- [ ] Reescrever os capítulos atuais 1–6 para corrigir invenções tratadas como cânone e alinhar o ritmo à obra.
+- [ ] Reavaliar os capítulos 1–4 quanto ao Livro Negro, Esqueleto Dourado, queimador de incenso e técnicas iniciais.
+- [ ] Retirar ou reposicionar o mini-chefe, a coleta de ervas, a revanche roteirizada e NPCs originais quando não couberem sem contradição.
+- [ ] Corrigir ou substituir o resumo antigo dos capítulos 2–8, que mistura ideias removidas e eventos ainda não verificados.
+- [ ] Substituir o final antigo na caverna de herança pelo encerramento aprovado no Palácio Fênix Dragão.
+- [ ] Escrever o roteiro detalhado de todos os macroarcos, com diálogos originais identificados como tais e sem atribuí-los ao autor do manhua.
+- [ ] Estimar duração somente após contar cenas, encontros, diálogos e exploração; a estimativa antiga de 1–2 horas não vale para este escopo.
+- [ ] Validar o papel e a presença de cada personagem em cada cena; não manter Su Yan como aliada permanente por conveniência.
 
-## Sistemas e balanceamento — não aprovados
+## Fase 5 — Validação de pré-produção
 
-- [ ] Harmonizar as regras de pílulas com a cronologia: o que pode ser obtido, comprado, usado ou aprendido em cada ponto da temporada.
-- [ ] Decidir se o puzzle de refinamento existe na Temporada 1; por enquanto não deve ser tratado como mecânica confirmada nem como evento canônico.
-- [ ] Validar a economia de pontos: explicar saldo inicial do capítulo 5 (12), os 20 pontos da missão tutorial do capítulo 3 e todos os gastos/recompensas.
-- [ ] Revisar o preço de referência de 50 pontos da Pílula de Cura e garantir que a economia não bloqueie progresso essencial.
-- [ ] Calcular XP e níveis por encontro, missão e capítulo; verificar se as recompensas e os saltos de nível são possíveis sem grind obrigatório excessivo.
-- [ ] Revisar atributos do Yang Kai, inimigos, chefe, custos de Qi, dano, buffs, esquiva e multiplicadores com cálculos documentados.
-- [ ] Confirmar se o treino noturno manual e sua conversão em passiva no nível 10 são canônicos; até lá, tratar a regra como decisão de design pendente.
-- [ ] Distinguir as regras canônicas de cultivo das mecânicas de jogo de rompimento, chance percentual, falha e “Meridianos Feridos”.
-- [ ] Definir os desbloqueios e as fontes de cada item, técnica e recompensa para evitar itens de arcos futuros antes da hora.
+- [ ] Validar a cobertura integral do manhua até o marco final.
+- [ ] Verificar continuidade de tempo, deslocamentos, relações, heranças e conhecimento dos personagens.
+- [ ] Harmonizar terminologia e traduções dos nomes, reinos, técnicas, tesouros e locais.
+- [ ] Criar uma fonte única de verdade para fichas de personagem, técnicas, itens, inimigos e locais.
+- [ ] Reconciliar os CSVs atuais com a cronologia e as regras aprovadas.
+- [ ] Calcular progressão, XP, economia, consumo de Qi, dano, HP/ATK/DEF e dificuldade com simulações documentadas.
+- [ ] Confirmar que nenhuma missão essencial fica bloqueada por falta de recursos.
+- [ ] Definir critérios de teste para os eventos canônicos e conteúdo opcional.
+- [ ] Só depois da aprovação, decidir engine e plano de implementação.
 
-## Mundo e produção — após o planejamento narrativo
+## Questões de cânone ainda abertas
 
-- [ ] Detalhar mapas, conexões, entradas/saídas, bloqueios, áreas opcionais e condições de desbloqueio.
-- [ ] Criar glossário de terminologia e uma fonte única para fichas de personagens, inimigos, técnicas, itens e locais.
-- [ ] Atualizar CSVs somente depois que as regras e a cronologia forem aprovadas.
-- [ ] Definir critérios de aceite e casos de teste para a futura implementação.
-- [ ] Escolher engine e iniciar programação apenas depois da aprovação do plano, conforme decisão do usuário.
+- [ ] Confirmar a sequência exata do Livro Negro, Esqueleto Dourado e queimador de incenso na edição do manhua.
+- [ ] Verificar nomes, falas e funções atualmente marcados [VERIFICAR], incluindo “Irmã Xiao”.
+- [ ] Confirmar quais técnicas e itens aparecem em cada fase e seus nomes traduzidos.
+- [ ] Conferir as diferenças relevantes entre manhua e novel; quando houver divergência, a campanha segue o manhua.
+- [ ] Confirmar as cenas exatas do Vale do Dragão, Sun Yu, invasão, Lago da Fênix e saída do Palácio na edição escolhida.
+- [ ] Não assumir que ATB, níveis de RPG, XP, pontos exatos, porcentagens de cura, pílulas permanentes, chefe extra, puzzles e “Limit Break” sejam cânone: são propostas de jogo.
 
-## Evidência de auditoria
+## Regras de manutenção
 
-- Relatório: [`00-planejamento/FASE-0-AUDITORIA.md`](00-planejamento/FASE-0-AUDITORIA.md)
-- O relatório inspeciona a árvore do commit-base `f38b9d350af83dc817c0fe7e027ed368c68207b0`, confronta os 25 arquivos existentes e documenta contradições, lacunas e limites da auditoria.
+- Nenhuma informação pendente pode ser promovida a cânone sem referência.
+- Conteúdo original deve ser marcado e nunca pode mudar os resultados da obra.
+- Se a verificação mostrar que uma mecânica ou cena atual contradiz o manhua, corrigir a mecânica/roteiro; não alterar o cânone para salvar a ideia.
+- A conclusão de cada fase exige artefatos verificáveis, não apenas caixas marcadas.
+
+## Evidências
+
+- [Fase 0 — Auditoria](00-planejamento/FASE-0-AUDITORIA.md)
+- [Fase 1 — Bíblia do cânone](00-planejamento/FASE-1-BIBLIA-CANONE.md)
+- [Fase 2 — Design global](00-planejamento/FASE-2-DESIGN-GLOBAL-RPG.md)
+- [Fase 3 — Mapa narrativo](00-planejamento/FASE-3-MAPA-NARRATIVO-TEMPORADA-1.md)
