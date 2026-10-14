@@ -112,3 +112,15 @@ Os títulos iniciais da novel e os números de capítulo podem variar conforme a
 ### Decisão operacional
 
 A edição WebNovel/Pikapi passa a ser a **edição de referência escolhida para numeração** porque tem série e catálogo estáveis e capítulos individualizáveis. Isso não equivale a declarar que o conteúdo foi lido visualmente. Até que os quadros possam ser inspecionados, as fichas permanecem classificadas como “catálogo localizado”, “pista secundária” ou “pendente de verificação visual”.
+
+
+## 10. Distinção importante: pomada no começo da novel versus cena atribuída a Xiao
+
+Uma busca textual encontrou no capítulo 4 da novel, “Black Book”, uma cena em que **Yang Kai usa uma pomada para ferimentos que já possuía**, dilui o produto em água para economizar e trata as próprias lesões: https://ranobeki.com/en/series/martial-peak/chapter-4. Outra cópia textual também descreve a pomada no capítulo 4: https://wuxia.click/chapter/martial-peak-mtl-4.
+
+Essa evidência não confirma a cena lembrada pelo projeto em que Xiao leva Yang Kai para debaixo de uma árvore e lhe entrega pomada. São referências que não podem ser tratadas como o mesmo evento sem comparação direta. Para evitar erro de continuidade:
+- **Cena A — automedicação:** Yang Kai trata as próprias feridas com pomada; novel capítulo 4 nas edições textuais consultadas.
+- **Cena B — Xiao e a pomada:** relato já presente no planejamento do jogo, mas capítulo/cena exatos ainda não confirmados; manter como pendência de fonte primária.
+- Não fundir as cenas nem escrever diálogos/ações de Xiao até localizar a referência do manhua ou confirmar a cena em fonte canônica identificável.
+
+As páginas textuais acima são fontes secundárias/não oficiais com licença não verificada; servem apenas para orientar a busca e não como autorização para reproduzir texto.
