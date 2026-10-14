@@ -228,3 +228,15 @@ O roteiro deve registrar:
 - transição para a próxima cena.
 
 Essa regra prevalece sobre qualquer interpretação anterior que exigisse adaptar cada capítulo do manhua em separado ou manter uma duração proporcional ao número de capítulos.
+
+
+## Sistema de cura: pomadas e pílulas (decisão do usuário, 2026-10-14)
+
+O jogo terá duas famílias distintas de itens de cura:
+
+- **Pomadas de cura:** restauram pouca saúde e são fáceis de obter, servindo como recurso básico e frequente.
+- **Pílulas de cura:** restauram mais saúde, ficam progressivamente mais difíceis de obter conforme seu nível/grau, também podem ser compradas quando a economia e a cronologia permitirem, e custam mais conforme aumentam de grau.
+
+Isso define a lógica do sistema, não os números finais. Quantidade de HP restaurada, nomes oficiais dos graus, preços, estoque, raridade e eventuais restrições de uso serão definidos no balanceamento e confrontados com a fonte canônica. O RPG não deve vender uma pílula avançada em uma loja antes de Yang Kai poder plausivelmente encontrá-la ou comprá-la naquele ponto da história.
+
+**Regra de economia:** pomadas são acessíveis e de efeito modesto; pílulas são mais potentes e exigem maior gasto ou esforço de obtenção. O sistema deve tornar a escolha significativa sem forçar grind repetitivo nem bloquear a campanha por falta de consumíveis.
