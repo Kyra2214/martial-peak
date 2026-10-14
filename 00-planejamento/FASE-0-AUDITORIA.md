@@ -12,7 +12,7 @@
 
 O repositório está em **pré-produção narrativa e de sistemas**, não em implementação. Há material útil para reaproveitar, mas ele não está pronto para servir de roteiro canônico fechado.
 
-- Foram encontrados **25 arquivos**: 18 documentos Markdown contando README e pendências, e 5 CSVs de dados, mais os documentos de roteiro/sistemas/personagens/mundo; nenhum código de jogo, projeto de engine, assets de jogo ou testes automatizados foi encontrado.
+- Foram encontrados **25 arquivos no total: 20 arquivos Markdown e 5 CSVs**. Nenhum código de jogo, projeto de engine, assets de jogo ou testes automatizados foi encontrado.
 - Há **6 capítulos com diálogos detalhados** (capítulos 1–6), um resumo de capítulos 2–8, visão geral, documentos de sistemas, personagens, mapa e tabelas CSV.
 - Os capítulos 7 e 8 existem apenas em resumo. O final atualmente planejado é a caverna/dimensão de herança e a transição para um arco seguinte; **não cobre ainda, de forma documentada, toda a trajetória até a saída do Templo Fênix Dragão**.
 - O material mistura fatos declarados como canônicos, informações relatadas pelo usuário, hipóteses marcadas `[VERIFICAR]` e mecânicas originais. Essa distinção precisa ser formalizada antes de aprovar o roteiro.
