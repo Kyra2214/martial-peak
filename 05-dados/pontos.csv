@@ -1,0 +1,12 @@
+atividade,pontos,nivel_minimo
+Varrer,1,1
+Limpar/arrumar biblioteca,1,1
+Tarefa leve do pavilhão,1,1
+Luta vencida,3,1
+Luta perdida,-1,1
+Ervas comuns,5,4
+Ervas raras,8,5
+Ervas extraordinárias,15,5
+Monstro comum (material),5,5
+Monstro raro (material),8,5
+Monstro extraordinário (material),15,5
