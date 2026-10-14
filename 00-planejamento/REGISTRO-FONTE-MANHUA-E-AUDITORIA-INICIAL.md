@@ -92,3 +92,23 @@ O capítulo 842 da novel, intitulado “Phoenix Lake”, descreve Yang Kai e Sun
 - Sun Yu é personagem masculino e amigo de Yang Kai; sua primeira aparição no manhua é indicada secundariamente como capítulo 728. Não confundir Sun Yu com Su Yan (a personagem associada à Fênix de Gelo) nem com Su Mu (irmão mais novo de Su Yan).
 - A cena do Lago da Fênix é uma etapa de preparação da herança de Su Yan; não significa que Su Yan esteja fisicamente presente no lago durante essa cena da novel.
 - O encerramento da temporada deve seguir o ponto aprovado: a primeira partida de Yang Kai do Palácio Dragão-Fênix depois do arco do Lago da Fênix, com o encadeamento exato conferido na edição do manhua escolhida.
+
+
+## 9. Confirmação adicional do catálogo da edição escolhida
+
+A consulta atual ao catálogo da WebNovel confirma que a edição identificada é *Martial Peak*, publisher Pikapi, e lista 1.621 capítulos no momento da consulta. O catálogo mostra capítulos numerados individualmente, incluindo 001–019 e outros capítulos posteriores. Fonte: https://www.webnovel.com/comic/14866013705882901/catalog.
+
+Páginas de capítulos que foram localizadas por busca:
+- Capítulo 9 (identificador 009): https://www.webnovel.com/comic/martial-peak_14866013705882901/009_43875919248552970
+- Capítulo 29 (identificador 029): https://www.webnovel.com/comic/martial-peak_14866013705882901/029_46125337234424440
+- Capítulo 728: https://www.webnovel.com/comic/martial-peak_14866013705882901/728_61107711902793922
+
+O capítulo 728 é uma correspondência secundária relevante porque a wiki de Sun Yu indica a primeira aparição dele no manhua nesse número. A página da WebNovel localizada, porém, exige login e não expôs quadros na captura textual; a correspondência fica como **catálogo localizado + índice secundário**, não como leitura visual confirmada.
+
+### Correção de precisão sobre capítulos da novel
+
+Os títulos iniciais da novel e os números de capítulo podem variar conforme a edição/serialização consultada. Por isso, referências como “novel capítulo 5 — 傲骨金身” e “manhua capítulo 8 — Esqueleto Dourado” não devem ser fundidas numa equivalência direta. Para cada linha do cânone, registrar o número e título exatamente como exibidos na fonte específica e manter a numeração da novel separada da do manhua.
+
+### Decisão operacional
+
+A edição WebNovel/Pikapi passa a ser a **edição de referência escolhida para numeração** porque tem série e catálogo estáveis e capítulos individualizáveis. Isso não equivale a declarar que o conteúdo foi lido visualmente. Até que os quadros possam ser inspecionados, as fichas permanecem classificadas como “catálogo localizado”, “pista secundária” ou “pendente de verificação visual”.
