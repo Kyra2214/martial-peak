@@ -1,5 +1,8 @@
 > **AVISO DE FASE 4 — MATERIAL LEGADO EM REVISÃO:** este arquivo não é fonte de cânone nem roteiro aprovado. Ele contém mecânicas, NPCs, diálogos e/ou acontecimentos ainda não verificados e pode contradizer o escopo atual. Consulte [o registro canônico](../00-planejamento/FASE-4-REGISTRO-CANONICO.md) e o [roteiro mestre de trabalho](ROTEIRO-MESTRE-TEMPORADA-1-V1.md). Não implementar nem promover seus detalhes a cânone antes da revisão.
 
+
+> **CORREÇÃO DE CONTINUIDADE — NÃO IMPLEMENTAR O TRECHO LEGADO COMO ESTÁ:** na cena sob a árvore, o item indicado pela direção atual do projeto é a **pomada de cura** entregue por Xiao, não a “Pílula de Cura Ordinária Baixo” escrita mais abaixo. A sequência deve ser condensada: Xiao registra as derrotas de Yang Kai, leva-o para debaixo da árvore e lhe dá a pomada. Cortar vigilância prolongada e gestos repetitivos sem função. Este arquivo continua sendo material legado; consulte o [roteiro mestre](ROTEIRO-MESTRE-TEMPORADA-1-V1.md) e a [matriz de adaptação](../00-planejamento/MATRIZ-DE-ADAPTACAO-CENAS-E-ITENS.md) para a direção válida.
+
 ---
 
 # Capítulo 1: O varredor (diálogos)
