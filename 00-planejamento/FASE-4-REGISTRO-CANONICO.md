@@ -67,3 +67,12 @@ A Fase 4 só pode ser marcada concluída quando houver: (a) edição de referên
 ## Princípio de adaptação para jogo
 
 **Não adaptar capítulo por capítulo de forma literal.** O manhua é a fonte da história, mas o RPG tem ritmo próprio. Vários capítulos podem ser condensados numa cena jogável ou numa transição. Preservar os fatos, as motivações, os personagens, as revelações e as consequências canônicas; resumir ou omitir repetição, deslocamento e ações sem peso narrativo. Locais importantes, como leilões, podem continuar exploráveis, mas o evento não precisa ocupar tempo proporcional ao número de capítulos. Jogador pode explorar, conversar e escolher abordagem dentro dos limites do cânone; não pode alterar resultados essenciais. Para cada bloco, registrar cenas de origem, fatos preservados, conteúdo condensado/omitido, espaço explorável, interação do jogador, resultado fixo e transição.
+
+
+## 7. Nova regra aplicada a cenas e itens — 2026-10-14
+
+O usuário definiu que a adaptação deve preservar os fatos canônicos e condensar a apresentação visual quando não houver perda de significado. Exemplo de trabalho: Xiao registra as derrotas de Yang Kai, leva-o para debaixo de uma árvore e lhe dá a pomada de cura. A adaptação pode resumir a vigilância prolongada e gestos repetitivos, sem remover os fatos centrais nem inventar intenções.
+
+**Item:** a pomada de cura deve ser representada como item do inventário do RPG. A versão legada que a substitui por “Pílula de Cura Ordinária Baixo” está incorreta para esta cena e não deve ser reutilizada. Efeito numérico, quantidade exata, raridade, preço e fabricação são parâmetros de jogo ainda não definidos. A descrição da cena é uma direção recebida do usuário e deve ter capítulo/página da edição do manhua anexados na verificação direta; não é prova de que essa conferência já ocorreu.
+
+Ver: [Matriz de adaptação de cenas e itens](MATRIZ-DE-ADAPTACAO-CENAS-E-ITENS.md).
