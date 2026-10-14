@@ -94,3 +94,13 @@ As faixas abaixo são **âncoras de pesquisa**, não uma conversão automática 
 ## 7. Critério de aceite
 
 A Bíblia é a fonte narrativa única do projeto. Uma cena só passa para o roteiro detalhado quando possui: posição na cronologia, personagens presentes, estado anterior e posterior, resultado canônico, referência de origem e rótulo de evidência. Itens pendentes permanecem pendentes; não são completados por suposição.
+
+
+## 8. Correção de glossário — Su Yan, Su Mu e Sun Yu (2026-10-14)
+
+- **Su Yan (苏颜):** personagem feminina associada à Fênix de Gelo.
+- **Su Mu (苏木):** irmão mais novo de Su Yan; não confundir com Sun Yu.
+- **Sun Yu:** discípulo do Palácio Fênix Dragão no arco do Vale do Dragão; não é irmão de Su Yan.
+- A menção anterior do usuário a “Sun Yu” como irmão de Su Yan foi corrigida para **Su Mu**. O confronto e o resultado exatos envolvendo Yang Kai e Su Mu devem ser confirmados diretamente na edição escolhida do manhua antes de fechar a cena.
+
+Referências de localização: [Su Yan](https://martial-peak-mp.fandom.com/wiki/Su_Yan), [Su Mu](https://martial-peak-mp.fandom.com/wiki/Su_Mu), [Sun Yu](https://martial-peak-mp.fandom.com/wiki/Sun_Yu). Esses índices auxiliam a pesquisa, mas não substituem a verificação da fonte primária.
