@@ -112,3 +112,12 @@ Este arquivo estabelece a estrutura e corrige a direção do roteiro, mas não d
 ## Princípio de adaptação para jogo
 
 **Não adaptar capítulo por capítulo de forma literal.** O manhua é a fonte da história, mas o RPG tem ritmo próprio. Vários capítulos podem ser condensados numa cena jogável ou numa transição. Preservar os fatos, as motivações, os personagens, as revelações e as consequências canônicas; resumir ou omitir repetição, deslocamento e ações sem peso narrativo. Locais importantes, como leilões, podem continuar exploráveis, mas o evento não precisa ocupar tempo proporcional ao número de capítulos. Jogador pode explorar, conversar e escolher abordagem dentro dos limites do cânone; não pode alterar resultados essenciais. Para cada bloco, registrar cenas de origem, fatos preservados, conteúdo condensado/omitido, espaço explorável, interação do jogador, resultado fixo e transição.
+
+
+## Aplicação concreta da nova visão — cena da Xiao e pomada
+
+A cena da Xiao é o exemplo de referência para a regra de condensação: manter os fatos (ela registra as derrotas de Yang Kai, leva-o para debaixo da árvore e lhe dá a pomada de cura), mas não estender a cena com vigilância prolongada, gestos repetidos ou contato físico sem função narrativa. A cena deve terminar quando o jogador compreender o que ocorreu e a entrega do item estiver registrada.
+
+**Item associado:** Pomada de cura — consumível do inventário do RPG recebido de Xiao. O efeito numérico, quantidade definitiva, preço, raridade e eventual fabricação continuam como parâmetros de design pendentes; não substituir a pomada por uma pílula. O tutorial de inventário deve ser curto e contextual.
+
+Ficha detalhada e regras para aplicar o mesmo método às próximas cenas: [Matriz de adaptação de cenas e itens](../00-planejamento/MATRIZ-DE-ADAPTACAO-CENAS-E-ITENS.md). A localização exata no manhua ainda precisa ser registrada durante a verificação direta; esta decisão não declara a Fase 4 concluída.
