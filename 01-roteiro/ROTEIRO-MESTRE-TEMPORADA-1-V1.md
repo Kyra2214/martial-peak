@@ -130,3 +130,13 @@ A direção aprovada do sistema distingue dois tipos de consumível:
 - **Pílulas de cura:** curam mais; conforme o grau, ficam mais difíceis de obter e mais caras. Podem ser vendidas por comerciantes quando o local, a economia e a cronologia permitirem.
 
 Não confundir o uso narrativo da pomada com a existência das pílulas no sistema. Os valores de cura, preços e graus ainda não estão definidos e não devem ser inventados como cânone. A progressão precisa respeitar o que Yang Kai pode obter em cada arco.
+
+
+## Correção de continuidade — Su Yan, Su Mu e Sun Yu (2026-10-14)
+
+- **Su Yan** é a personagem associada à **Fênix de Gelo**.
+- **Su Mu** é o irmão de Su Yan. Onde o rascunho ou notas de conversa disserem “Sun Yu” querendo dizer o irmão dela, leia-se **Su Mu**.
+- **Sun Yu** é outro personagem, do Palácio Fênix Dragão, relacionado ao arco do Vale do Dragão; não é irmão de Su Yan.
+- Não fundir as duas linhas narrativas. A cena de Yang Kai e Su Mu pertence à fase inicial no Pavilhão do Alto Céu; Sun Yu pertence ao arco posterior do Palácio Fênix Dragão. A cena e o resultado exatos do confronto com Su Mu continuam sujeitos à conferência direta do manhua.
+
+Referências de localização: [Su Yan](https://martial-peak-mp.fandom.com/wiki/Su_Yan), [Su Mu](https://martial-peak-mp.fandom.com/wiki/Su_Mu), [Sun Yu](https://martial-peak-mp.fandom.com/wiki/Sun_Yu).
