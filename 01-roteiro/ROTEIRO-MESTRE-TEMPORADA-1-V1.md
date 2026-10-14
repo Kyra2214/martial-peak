@@ -121,3 +121,12 @@ A cena da Xiao é o exemplo de referência para a regra de condensação: manter
 **Item associado:** Pomada de cura — consumível do inventário do RPG recebido de Xiao. O efeito numérico, quantidade definitiva, preço, raridade e eventual fabricação continuam como parâmetros de design pendentes; não substituir a pomada por uma pílula. O tutorial de inventário deve ser curto e contextual.
 
 Ficha detalhada e regras para aplicar o mesmo método às próximas cenas: [Matriz de adaptação de cenas e itens](../00-planejamento/MATRIZ-DE-ADAPTACAO-CENAS-E-ITENS.md). A localização exata no manhua ainda precisa ser registrada durante a verificação direta; esta decisão não declara a Fase 4 concluída.
+
+
+## Economia de cura — pomadas e pílulas
+
+A direção aprovada do sistema distingue dois tipos de consumível:
+- **Pomadas:** curam pouco e são fáceis de conseguir. A pomada recebida de Xiao é um item de inventário narrativamente associado àquela cena.
+- **Pílulas de cura:** curam mais; conforme o grau, ficam mais difíceis de obter e mais caras. Podem ser vendidas por comerciantes quando o local, a economia e a cronologia permitirem.
+
+Não confundir o uso narrativo da pomada com a existência das pílulas no sistema. Os valores de cura, preços e graus ainda não estão definidos e não devem ser inventados como cânone. A progressão precisa respeitar o que Yang Kai pode obter em cada arco.
