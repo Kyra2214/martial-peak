@@ -78,3 +78,16 @@ Esses itens só podem ser reaproveitados como propostas de jogo se não alterare
 - [Fase 3 — Mapa narrativo](00-planejamento/FASE-3-MAPA-NARRATIVO-TEMPORADA-1.md)
 - [Fase 4 — Registro canônico](00-planejamento/FASE-4-REGISTRO-CANONICO.md)
 - [Fase 4 — Roteiro mestre](01-roteiro/ROTEIRO-MESTRE-TEMPORADA-1-V1.md)
+
+
+## Atualização da visão de adaptação — 2026-10-14
+
+- [x] Definido o princípio prático: preservar os acontecimentos canônicos, condensar quadros/gestos repetitivos e não transformar toda cena em missão.
+- [x] Documentado um exemplo de referência para a cena da Xiao e a pomada: ela registra as derrotas de Yang Kai, leva-o para debaixo da árvore e lhe dá a pomada; a cena pode ser curta.
+- [x] Corrigida a direção do item: **pomada de cura**, não “Pílula de Cura Ordinária Baixo” como aparece no roteiro legado.
+- [x] Criada a [Matriz de adaptação de cenas e itens](00-planejamento/MATRIZ-DE-ADAPTACAO-CENAS-E-ITENS.md), com separação entre fato canônico, condensação visual, interação e parâmetros de jogo.
+- [ ] Registrar capítulo/página/URL da edição de manhua para a cena da Xiao durante a conferência direta.
+- [ ] Definir efeito numérico e quantidade do item sem os tratar como cânone.
+- [ ] Aplicar a matriz aos roteiros restantes, começando pela abertura, e retirar substituições incorretas de itens dos roteiros ativos.
+
+A Fase 4 continua **EM ANDAMENTO**; esta atualização melhora o método e corrige a direção da cena, mas não substitui a verificação capítulo a capítulo.
