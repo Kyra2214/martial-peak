@@ -12,21 +12,21 @@ Projeto de fã inspirado no manhua *Martial Peak*.
 
 ## Estado atual
 
-O repositório está em **pré-produção**. As Fases 0–3 do planejamento foram documentadas: auditoria, bíblia inicial do cânone, design global do RPG e mapa narrativo macro da Temporada 1. Isso **não** significa que todos os capítulos do manhua já tenham sido verificados um por um: a numeração equivalente do manhua para o encerramento e a conferência detalhada de cenas permanecem explícitas como pendências antes do roteiro final.
+O repositório está em **pré-produção**. As Fases 0–3 têm documentos de planejamento. A Fase 4 está em andamento: foi criado um registro de evidências/lacunas e um roteiro mestre de trabalho que identifica as invenções dos roteiros antigos e fixa regras para as cenas futuras. **A Fase 4 não está concluída**: falta fixar uma edição do manhua, mapear todas as cenas diretamente na fonte e verificar o capítulo manhua do encerramento. A numeração da novel não pode ser apresentada como numeração do manhua.
 
 ## Plano de trabalho
 
-1. **Fase 0 — Auditoria e consolidação:** concluída. [Relatório](00-planejamento/FASE-0-AUDITORIA.md)
+1. **Fase 0 — Auditoria e consolidação:** relatório existente. [Relatório](00-planejamento/FASE-0-AUDITORIA.md)
 2. **Fase 1 — Bíblia do cânone:** baseline documentada, com cronologia macro, fontes e itens pendentes. [Bíblia](00-planejamento/FASE-1-BIBLIA-CANONE.md)
 3. **Fase 2 — Design global do RPG:** design conceitual documentado; balanceamento numérico aguarda protótipo. [Design global](00-planejamento/FASE-2-DESIGN-GLOBAL-RPG.md)
 4. **Fase 3 — Mapa narrativo da Temporada 1:** macroarcos definidos desde o começo até a saída do Palácio Fênix Dragão. [Mapa narrativo](00-planejamento/FASE-3-MAPA-NARRATIVO-TEMPORADA-1.md)
-5. **Fase 4 — Roteiro detalhado:** conferir o manhua cena por cena, dividir macroarcos em capítulos de jogo e escrever cenas/diálogos sem divergência canônica.
-6. **Fase 5 — Validação de pré-produção:** revisar continuidade, cobertura, fórmulas, recompensas e critérios de aceite antes de escolher engine ou iniciar implementação.
+5. **Fase 4 — Roteiro detalhado:** em andamento. [Registro de verificação canônica](00-planejamento/FASE-4-REGISTRO-CANONICO.md) · [Roteiro mestre v1](01-roteiro/ROTEIRO-MESTRE-TEMPORADA-1-V1.md)
+6. **Fase 5 — Validação de pré-produção:** continuidade, cobertura, fórmulas, recompensas e critérios de aceite antes de escolher engine ou iniciar implementação.
 
 ## Estrutura
 
-- `00-planejamento/` — auditoria, bíblia do cânone, design global e mapa narrativo.
-- `01-roteiro/` — roteiro e diálogos iniciais existentes, ainda sujeitos à revisão.
+- `00-planejamento/` — auditoria, bíblia do cânone, design global, mapa narrativo e registros de verificação.
+- `01-roteiro/` — roteiro mestre e arquivos antigos sob revisão.
 - `02-sistemas/` — propostas de sistemas que devem obedecer à bíblia e ao design global.
 - `03-personagens/` — fichas preliminares.
 - `04-mundo/` — esboços de mapas.
