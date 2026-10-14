@@ -1,25 +1,41 @@
-# Martial Peak RPG - Arco 1: Pavilhão Lingxiao
+# Martial Peak RPG — Temporada 1
 
-Projeto de fã, sem fins lucrativos. Estilo Final Fantasy (combate ATB). Jogo dividido por arcos.
-Arco 1 cobre os níveis 1 a 9 (Corpo Temperado). O nível 10 (Fundamento Inicial) abre o Arco 2.
+Projeto de fã, sem fins lucrativos, inspirado no manhwa *Martial Peak*.
 
-Marcação [VERIFICAR] = item que não foi confirmado nas fontes; conferir no manhwa.
+## Direção aprovada
 
-## Estrutura
-- 01-roteiro/        Visão geral, capítulos e diálogos
-- 02-sistemas/       Domínios, combate, rompimento, pílulas, puzzle
-- 03-personagens/    Yang Kai (kit e atributos) e inimigos
-- 04-mundo/          Mapas
-- 05-dados/          CSVs prontos para importar na engine (atributos, técnicas, inimigos, pílulas, pontos)
-- PENDENCIAS.md      Lista do que falta confirmar ou decidir
+- **Protagonista:** Yang Kai, seguindo a história original.
+- **Fidelidade:** rigorosa; acontecimentos canônicos não podem ser alterados.
+- **Conteúdo expandido:** exploração, treinamento e missões originais são permitidos quando coerentes com o universo, identificados como conteúdo original e sem contradizer o cânone.
+- **Limite da Temporada 1:** até a saída de Yang Kai do Templo Fênix Dragão.
+- **Engine e implementação:** adiadas até o plano narrativo e o design estarem consolidados.
 
-## Ordem sugerida para começar a codar
-1. Mapa do pátio do pavilhão + movimento
-2. Combate ATB com Golpe Básico, Defender e Item
-3. Tabela de níveis (05-dados/atributos_yang_kai.csv)
-4. Capítulo 1 completo (01-roteiro/capitulo-01-dialogos.md)
-5. Capítulo 2 (01-roteiro/capitulo-02-dialogos.md): rotina diária e esquiva
-6. Capítulo 3 (01-roteiro/capitulo-03-dialogos.md): ervas, Livro Negro e incenso
-7. Capítulo 4 (01-roteiro/capitulo-04-dialogos.md): treino noturno e puzzle tutorial
-8. Capítulo 6 (01-roteiro/capitulo-06-dialogos.md): revanche e convocação para a caverna
-9. Capítulo 5 (01-roteiro/capitulo-05-dialogos.md): pontos, floresta e mini-chefe
+## Estado atual
+
+O repositório está em **pré-produção**. Há roteiros parciais, propostas de sistemas e CSVs preliminares. Os documentos atuais não constituem ainda uma cronologia canônica validada. Nomes, técnicas, eventos e regras marcados `[VERIFICAR]` devem permanecer pendentes até serem conferidos em fontes rastreáveis.
+
+## Plano de trabalho
+
+1. **Fase 0 — Auditoria e consolidação:** concluída documentalmente. Ver [relatório de auditoria](00-planejamento/FASE-0-AUDITORIA.md).
+2. **Fase 1 — Bíblia do cânone:** cronologia e evidências do manhwa; separar cânone, relato do usuário, adaptação e conteúdo original.
+3. **Fase 2 — Design global do RPG:** sistemas, progressão, economia e regras de disponibilidade por trecho da história.
+4. **Fase 3 — Mapa narrativo da Temporada 1:** arcos e capítulos até a saída do Templo Fênix Dragão.
+5. **Fase 4 — Roteiro detalhado:** cenas, diálogos, missões, exploração, encontros e transições.
+6. **Fase 5 — Validação de pré-produção:** consistência narrativa, cálculos de progressão, cobertura e aceite antes da implementação.
+
+## Estrutura existente
+
+- `00-planejamento/` — auditoria e decisões de planejamento.
+- `01-roteiro/` — visão geral, capítulos e diálogos atuais.
+- `02-sistemas/` — propostas de combate, cultivo, pílulas, pontos e quests.
+- `03-personagens/` — Yang Kai, NPCs e inimigos.
+- `04-mundo/` — esboço dos mapas.
+- `05-dados/` — CSVs preliminares de atributos, inimigos, pílulas, pontos e técnicas.
+- `PENDENCIAS.md` — itens ainda por resolver.
+
+## Regras de qualidade
+
+- Não tratar informação duvidosa como cânone confirmado.
+- Toda afirmação canônica relevante deve ter referência rastreável ao manhwa.
+- Conteúdo original deve ser identificado e não pode mudar resultados canônicos.
+- Nenhuma fase será considerada concluída apenas por marcar uma caixa: devem existir entregáveis e evidências revisáveis.
