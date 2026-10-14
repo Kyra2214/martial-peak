@@ -107,3 +107,8 @@ Cada cena deve conter: ID estável; macroarco; capítulo do manhua e URL da edi�
 ## Gate de fechamento
 
 Este arquivo estabelece a estrutura e corrige a direção do roteiro, mas não declara a Fase 4 concluída. A Fase 4 só fecha quando todas as cenas até a saída do Palácio Fênix Dragão tiverem referência direta ao manhua e o capítulo final estiver numerado na edição escolhida.
+
+
+## Princípio de adaptação para jogo
+
+**Não adaptar capítulo por capítulo de forma literal.** O manhua é a fonte da história, mas o RPG tem ritmo próprio. Vários capítulos podem ser condensados numa cena jogável ou numa transição. Preservar os fatos, as motivações, os personagens, as revelações e as consequências canônicas; resumir ou omitir repetição, deslocamento e ações sem peso narrativo. Locais importantes, como leilões, podem continuar exploráveis, mas o evento não precisa ocupar tempo proporcional ao número de capítulos. Jogador pode explorar, conversar e escolher abordagem dentro dos limites do cânone; não pode alterar resultados essenciais. Para cada bloco, registrar cenas de origem, fatos preservados, conteúdo condensado/omitido, espaço explorável, interação do jogador, resultado fixo e transição.
