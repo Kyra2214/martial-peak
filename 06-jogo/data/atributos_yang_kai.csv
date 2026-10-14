@@ -1,0 +1,11 @@
+nivel,dominio,camada,hp,qi,atk,def,vel
+1,Corpo Temperado,1,60,20,8,5,6
+2,Corpo Temperado,2,75,24,10,6,6
+3,Corpo Temperado,3,90,28,12,8,7
+4,Corpo Temperado,4,110,34,15,9,8
+5,Corpo Temperado,5,150,45,22,15,10
+6,Corpo Temperado,6,175,52,26,17,11
+7,Corpo Temperado,7,200,60,30,20,12
+8,Corpo Temperado,8,230,70,35,23,14
+9,Corpo Temperado,9,265,80,40,27,15
+10,Fundamento Inicial,1,300,95,48,32,17

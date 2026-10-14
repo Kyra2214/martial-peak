@@ -100,3 +100,17 @@ A Fase 4 continua **EM ANDAMENTO**; esta atualização melhora o método e corri
 - [ ] Harmonizar os graus e nomes das pílulas com a tradução canônica escolhida.
 - [ ] Definir números de cura, preços, estoque e regras de uso durante o balanceamento.
 - [ ] Garantir que comerciantes e consumíveis estejam disponíveis apenas quando a cronologia justificar.
+
+## Reconciliação do legado (2026-10-14)
+
+- [x] Classificação capítulo a capítulo e correções de pomada: [RECONCILIACAO-LEGADO](00-planejamento/RECONCILIACAO-LEGADO.md)
+- [x] Decisões 1 a 3 da reconciliação respondidas (manter pontos, manter treino, caldeirão na 2ª página, erva rara adaptada, ~10 capítulos). Falta conferir o caldeirão na fonte.
+- [x] Decisão 4: Caps. 7 e 8 legados descartados; caverna será roteirizada no Ato III.
+
+## Construção do jogo (2026-10-14)
+
+- [x] Engine: Godot 4.3.
+- [x] Protótipo do Cap. de jogo 01 (mapa, diálogo, ATB, itens), testado em modo headless.
+- [ ] Testar no celular/desktop e ajustar ritmo e combate.
+- [ ] Cena do Livro Negro (caldeirão) e treino noturno.
+- [ ] Salvar/carregar; exportar Android/Web.

@@ -1,0 +1,36 @@
+{
+  "cap01_intro": [
+    {"s": "Narração", "t": "Pavilhão do Alto Céu. Yang Kai é discípulo de teste e varredor. [Texto provisório]"},
+    {"s": "Yang Kai", "t": "O trabalho de hoje não vai se fazer sozinho."},
+    {"s": "Narração", "t": "Mova-se com WASD/setas (ou os botões na tela) e aperte E para interagir."}
+  ],
+  "cap01_sweep_done": [
+    {"s": "Yang Kai", "t": "Pronto. O pátio está limpo."},
+    {"s": "Narração", "t": "+1 ponto de discípulo por varrer. [J]"},
+    {"s": "Narração", "t": "Alguém se aproxima do pátio..."}
+  ],
+  "cap01_rival_challenge": [
+    {"s": "Discípulo A", "t": "Ainda insiste em cultivar, varredor?"},
+    {"s": "Yang Kai", "t": "Insistir é a única coisa que ainda posso fazer."},
+    {"s": "Discípulo A", "t": "Então vamos ver quanto você aguenta."}
+  ],
+  "cap01_win": [
+    {"s": "Discípulo A", "t": "Impossível... Como você me venceu?"},
+    {"s": "Narração", "t": "+3 pontos por luta vencida. [J] (resultado improvável para o roteiro)"}
+  ],
+  "cap01_defeat_tree": [
+    {"s": "Narração", "t": "Yang Kai só cai quando não consegue mais se levantar. Xiao registra a derrota e o leva para debaixo de uma árvore."},
+    {"s": "Narração", "t": "-1 ponto por luta perdida. [J]"}
+  ],
+  "cap01_pomada": [
+    {"s": "Xiao", "t": "Tome. Não é pagamento. Só não gosto de ver alguém se quebrar por nada."},
+    {"s": "Narração", "t": "Item recebido: Pomada de cura. Abra Itens para usá-la."}
+  ],
+  "cap01_deadline": [
+    {"s": "Responsável", "t": "Yang Kai. Lembre-se: você tem três anos. Se não mostrar progresso, será expulso."},
+    {"s": "Yang Kai", "t": "Eu sei. Vou continuar tentando."}
+  ],
+  "cap01_end": [
+    {"s": "Narração", "t": "Fim do protótipo. Próximo passo: o Livro Negro (a conferir no manhua)."}
+  ]
+}

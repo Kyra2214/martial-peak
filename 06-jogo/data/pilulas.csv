@@ -1,0 +1,13 @@
+nome,grau,nivel_grau,efeito,duracao
+Pílula de Cura,Ordinário,Baixo,50% do HP,instantâneo
+Pílula de Cura,Ordinário,Médio,70% do HP,instantâneo
+Pílula de Cura,Ordinário,Alto,100% do HP,instantâneo
+Pílula de Restauração de Qi,Ordinário,Baixo,50% do Qi,instantâneo
+Pílula de Restauração de Qi,Ordinário,Médio,70% do Qi,instantâneo
+Pílula de Restauração de Qi,Ordinário,Alto,100% do Qi,instantâneo
+Pílula de Poder/Velocidade/Defesa,Ordinário,Baixo,+15%,uma batalha
+Pílula de Poder/Velocidade/Defesa,Ordinário,Médio,+25%,uma batalha
+Pílula de Poder/Velocidade/Defesa,Ordinário,Alto,+35%,uma batalha
+Reparo dos Meridianos,Ordinário,Alto,Cura Meridianos Feridos e Sobrecarga,instantâneo
+Rompimento,Terra,Baixo,+25% chance de romper,uma tentativa
+Pílula Permanente,Terra,Médio/Alto,+2 em um atributo,permanente (máx 3 por domínio)

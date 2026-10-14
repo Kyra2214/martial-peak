@@ -1,5 +1,7 @@
 # Pílulas
 
+> **Nota de reconciliação (2026-10-14):** no início da Temporada 1 o consumível de cura é a **pomada de cura** (cena da Xiao). Pílulas só entram quando houver comércio compatível com a cronologia. Todos os números abaixo são propostas [J] pendentes de balanceamento, não cânone. Ver [RECONCILIACAO-LEGADO](../00-planejamento/RECONCILIACAO-LEGADO.md).
+
 ## Graus (8 graus x 3 níveis = 24 tiers)
 1 Ordinário (Common), 2 Terra (Earth), 3 Céu (Heaven), 4 Misterioso (Mysterious), 5 Espiritual (Spirit), 6 Santo (Saint), 7 Rei Santo (Saint King), 8 Origem (Origin).
 Cada grau tem Baixo, Médio e Alto.

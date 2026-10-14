@@ -1,0 +1,9 @@
+nome,nivel,custo_qi,multiplicador_atk,efeito,status
+Golpe Básico,1,0,1.0,Ataque físico,generica
+Respirar Qi,1,0,0,Recupera 20% do Qi máx,generica
+Passo Leve,3,4,0,+40% esquiva por 3 turnos,verificar
+Palma de Qi,4,8,1.6,Dano em alvo único,verificar
+Corpo Dourado do Osso Orgulhoso,5,12,0,+50% DEF por 4 turnos,confirmada
+Punho Concentrado,7,20,2.8,Dano alto,verificar
+Contra-ataque,8,0,1.0,30% de chance de revidar (passiva),design_proprio
+Herança do Dragão,9,barra,5.0,Ignora 30% da DEF (Limit Break),baseada_na_heranca

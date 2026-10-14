@@ -10,7 +10,7 @@ Objetivo: ensinar a rotina diária (3 períodos), os duelos rotativos e a esquiv
 ## Mecânica do capítulo
 - Cada dia tem 3 períodos: manhã (duelo), tarde (tarefa de varredor), noite (treino).
 - O jogador escolhe 1 entre 3 oponentes por dia. Todos são mais fortes que o Yang Kai.
-- Derrota não tem penalidade além do HP perdido e do gasto de pílula, e rende XP mesmo assim.
+- Derrota não tem penalidade além do HP perdido e do gasto de pomada, e rende XP mesmo assim.
 - Ao fim de 5 dias (cerca de 5 duelos) o Yang Kai aprende Passo Leve e sobe ao nível 3.
 - Tutorial novo: esquiva (aperte Defender no momento do golpe para reduzir o dano).
 

@@ -4,7 +4,7 @@
 
 # Capítulo 4: Treino em segredo (diálogos)
 
-Diálogos originais para o jogo. Nomes e detalhes do manhwa são [VERIFICAR]. A pílula de teste e o tutorial do puzzle são design próprio do jogo.
+Diálogos originais para o jogo. Nomes e detalhes do manhwa são [VERIFICAR]. A pílula de teste e o puzzle de refinamento foram REMOVIDOS deste capítulo (não existem nesta fase).
 Objetivo: ensinar o treino noturno do Corpo Dourado e mostrar a primeira mudança real do Yang Kai nos duelos. Nível 5 (sem subir de nível, mas com bônus de treino). Duração: 20 a 25 minutos.
 
 ## Regras do capítulo
@@ -55,7 +55,7 @@ Velho do pavilhão: (observando) Duelos que antes você perdia.
 Yang Kai: Eu só continuei tentando.
 Velho do pavilhão: Continue. Pontos não ensinam resistência. Só o corpo ensina.
 Yang Kai: (guardando a placa) Vou lembrar disso.
-[Nesta fase do jogo, a única pílula disponível é a Pílula de Cura, comprada com pontos no Hall. Não há pílulas especiais ainda.]
+[Nesta fase do jogo, o único consumível de cura é a pomada de cura. Não há pílulas à venda nem pílulas especiais ainda.]
 
 ## Cena 5: A terceira noite
 [Alojamento. Yang Kai medita pela terceira vez.]

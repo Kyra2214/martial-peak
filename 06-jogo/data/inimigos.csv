@@ -1,0 +1,6 @@
+nome,nivel,hp,atk,def
+Discípulo comum,1-4,40-100,8-16,4-9
+Lobo da floresta,4,120,16,8
+Discípulo rival,6,220,24,14
+Mini-chefe,7,450,32,18
+Chefe final,9-10,1100,45,25

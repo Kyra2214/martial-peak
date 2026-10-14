@@ -51,3 +51,9 @@ O RPG preserva os acontecimentos canônicos sem reproduzir cada quadro literalme
 - [Registro canônico da Fase 4](00-planejamento/FASE-4-REGISTRO-CANONICO.md)
 
 A Fase 4 permanece em andamento até a verificação direta de todas as cenas e o registro dos capítulos/páginas da edição de manhua escolhida.
+
+- [Reconciliação do material legado](00-planejamento/RECONCILIACAO-LEGADO.md)
+
+## Implementação
+
+Engine escolhida: **Godot 4**. Protótipo jogável do Cap. de jogo 01 em [06-jogo](06-jogo/README.md). A decisão antecipa a Fase 5 por pedido do usuário; roteiro e balanceamento continuam sujeitos à revisão.

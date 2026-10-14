@@ -47,7 +47,7 @@ Falas durante a luta:
 - Discípulo A (ao atacar): "Isso é só o começo!"
 - Yang Kai (ao atacar): "Ainda não acabou!"
 - Yang Kai (ao defender): "Aguenta... aguenta."
-- Yang Kai (ao usar Pílula de Cura): "Só mais um pouco."
+- Yang Kai (ao usar a pomada de cura): "Só mais um pouco."
 - Discípulo A (com HP baixo): "Esse varredor ainda se mexe?!"
 
 [MECÂNICA "Não desistir": o duelo não termina por rendição. Ao chegar a 0 HP, Yang Kai se levanta uma vez com 1 HP (cena roteirizada). Na segunda queda, ele desmaia. A derrota é obrigatória: o Discípulo A tem muito mais HP e ATK.]
@@ -68,11 +68,11 @@ Yang Kai: Isso não vale pontos.
 Irmã Xiao: Quem assiste até o fim sabe quem aguenta mais do que aparenta.
 Yang Kai: Foi a senhora quem me trouxe até aqui?
 Irmã Xiao: Não ia deixar você no meio do pátio. Tome.
-[Item recebido: Pílula de Cura Ordinária Baixo]
+[Item recebido: Pomada de cura]
 Yang Kai: Eu não tenho como pagar.
 Irmã Xiao: Não é pagamento. Só não gosto de ver alguém se quebrar por nada.
 Yang Kai: Obrigado, irmã.
-[TUTORIAL: use Item no menu para tomar a pílula. HP restaurado.]
+[TUTORIAL curto: abra Item no menu e use a pomada. HP restaurado parcialmente; valor pendente de balanceamento.]
 Yang Kai: (olhando as mãos) Perdi de novo. Mas da próxima vez eu caio mais tarde.
 [XP ganho mesmo na derrota. Pontos de discípulo: -1 pela luta perdida.]
 
@@ -99,6 +99,6 @@ Yang Kai: O que foi isso?
 ## Resumo
 - Duração: 10 a 15 min | Nível: 1 para 2 | XP: 40
 - Pontos de discípulo: +1 (varrer) e -1 (luta perdida)
-- Itens: Vassoura (chave), 20 moedas, 1 Pílula de Cura Ordinária Baixo (dada pela Irmã Xiao)
+- Itens: Vassoura (chave), 20 moedas, 1 Pomada de cura (dada pela Irmã Xiao; quantidade a confirmar na fonte)
 - Técnicas: Golpe Básico, Respirar Qi
 - Gancho: brilho misterioso que leva ao Livro Negro (Capítulo 3)
