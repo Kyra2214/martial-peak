@@ -40,3 +40,14 @@ O repositório está em **pré-produção**. As Fases 0–3 têm documentos de p
 - Todo acontecimento canônico relevante deve ter referência rastreável à versão do manhua adotada.
 - Conteúdo original deve ser identificado e não pode mudar resultados canônicos.
 - Nenhuma fase será considerada concluída apenas por marcar uma caixa: devem existir entregáveis e evidências revisáveis.
+
+
+## Direção atual de adaptação
+
+O RPG preserva os acontecimentos canônicos sem reproduzir cada quadro literalmente. Cenas repetitivas podem ser condensadas; elementos narrativos relevantes podem virar sistemas do jogo, como a pomada de cura entregue por Xiao e registrada no inventário. Fatos da obra, condensação visual e parâmetros de gameplay devem permanecer identificados separadamente.
+
+- [Matriz de adaptação de cenas e itens](00-planejamento/MATRIZ-DE-ADAPTACAO-CENAS-E-ITENS.md)
+- [Roteiro mestre da Temporada 1](01-roteiro/ROTEIRO-MESTRE-TEMPORADA-1-V1.md)
+- [Registro canônico da Fase 4](00-planejamento/FASE-4-REGISTRO-CANONICO.md)
+
+A Fase 4 permanece em andamento até a verificação direta de todas as cenas e o registro dos capítulos/páginas da edição de manhua escolhida.
