@@ -1,3 +1,7 @@
+> **AVISO DE FASE 4 — MATERIAL LEGADO EM REVISÃO:** este arquivo não é fonte de cânone nem roteiro aprovado. Ele contém mecânicas, NPCs, diálogos e/ou acontecimentos ainda não verificados e pode contradizer o escopo atual. Consulte [o registro canônico](../00-planejamento/FASE-4-REGISTRO-CANONICO.md) e o [roteiro mestre de trabalho](ROTEIRO-MESTRE-TEMPORADA-1-V1.md). Não implementar nem promover seus detalhes a cânone antes da revisão.
+
+---
+
 # Visão geral do Arco 1
 
 Estilo Final Fantasy (ATB), 1 a 2 horas de jogo, Yang Kai do nível 1 ao 9.
