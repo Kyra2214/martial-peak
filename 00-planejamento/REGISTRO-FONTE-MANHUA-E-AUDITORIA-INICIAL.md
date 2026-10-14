@@ -67,3 +67,28 @@ Esta frente **não está concluída** enquanto os capítulos e quadros do manhua
 2. Confirmar visualmente os capítulos iniciais e registrar o mapeamento do Livro Negro, osso dourado, temperamento corporal, incensário e cena de Xiao/pomada.
 3. Avançar cronologicamente até Vale do Dragão, Sun Yu, Lago da Fênix e primeira saída do Palácio Dragão-Fênix, mantendo uma linha por acontecimento importante.
 4. Só então consolidar o roteiro jogável e corrigir os roteiros legados com referências rastreáveis.
+
+
+## 8. Novas pistas cruzadas encontradas (ainda secundárias)
+
+A pesquisa posterior encontrou um índice comunitário que apresenta correspondências explícitas entre capítulos da novel e do manhua para páginas do Livro Negro. Isso melhora a trilha de auditoria, mas **continua sendo evidência secundária** até comparar com os quadros da edição WebNovel escolhida.
+
+| Elemento | Capítulo da novel indicado pelo índice | Capítulo do manhua indicado pelo índice | Fonte | Estado |
+|---|---:|---:|---|---|
+| Esqueleto Dourado Inquebrável | 6 | 8 | https://martial-peak-mp.fandom.com/wiki/Demon_Mystic_Tome | Pista secundária; verificar quadros |
+| Registro de Temperamento Corporal / Corpo Dourado Orgulhoso | 7 | 9 | https://martial-peak-mp.fandom.com/wiki/Demon_Mystic_Tome | Pista secundária; verificar quadros |
+| Incensário Antigo | 14 | 19 | https://martial-peak-mp.fandom.com/wiki/Demon_Mystic_Tome | Pista secundária; verificar quadros |
+| Arte Secreta do Verdadeiro Yang | 32 | 29 | https://martial-peak-mp.fandom.com/wiki/Demon_Mystic_Tome | Pista secundária; verificar quadros |
+| Primeira aparição de Sun Yu | 829 | 728 | https://martial-peak-mp.fandom.com/wiki/Sun_Yu | Pista secundária; verificar edição e capítulo |
+
+### O que a fonte de novel acrescenta ao arco do Lago da Fênix
+
+O capítulo 842 da novel, intitulado “Phoenix Lake”, descreve Yang Kai e Sun Yu no Lago da Fênix, a manifestação do dragão dourado e da Fênix de Gelo, a confirmação de que a herança da Fênix pertence a Su Yan e a despedida de Yang Kai de Sun Yu antes de partir. Referências para conferência de contexto: https://hhnovel.com/hhnovel/martial-peak/chapter-842 e https://www.divinedaolibrary.com/story/martial-peak/martial-peak-chapter-842-phoenix-lake/.
+
+**Limite:** esses textos de novel não estabelecem por si só o capítulo do manhua, nem autorizam copiar diálogos ou prosa. Servem apenas como apoio de continuidade até a conferência visual.
+
+### Implicações de continuidade
+
+- Sun Yu é personagem masculino e amigo de Yang Kai; sua primeira aparição no manhua é indicada secundariamente como capítulo 728. Não confundir Sun Yu com Su Yan (a personagem associada à Fênix de Gelo) nem com Su Mu (irmão mais novo de Su Yan).
+- A cena do Lago da Fênix é uma etapa de preparação da herança de Su Yan; não significa que Su Yan esteja fisicamente presente no lago durante essa cena da novel.
+- O encerramento da temporada deve seguir o ponto aprovado: a primeira partida de Yang Kai do Palácio Dragão-Fênix depois do arco do Lago da Fênix, com o encadeamento exato conferido na edição do manhua escolhida.
