@@ -76,3 +76,13 @@ O usuário definiu que a adaptação deve preservar os fatos canônicos e conden
 **Item:** a pomada de cura deve ser representada como item do inventário do RPG. A versão legada que a substitui por “Pílula de Cura Ordinária Baixo” está incorreta para esta cena e não deve ser reutilizada. Efeito numérico, quantidade exata, raridade, preço e fabricação são parâmetros de jogo ainda não definidos. A descrição da cena é uma direção recebida do usuário e deve ter capítulo/página da edição do manhua anexados na verificação direta; não é prova de que essa conferência já ocorreu.
 
 Ver: [Matriz de adaptação de cenas e itens](MATRIZ-DE-ADAPTACAO-CENAS-E-ITENS.md).
+
+
+## 8. Correção de nomes e relações — 2026-10-14
+
+- **Su Yan (苏颜)** é a personagem feminina associada à **Fênix de Gelo**; ela não deve ser chamada de “Sun Yan” no glossário do projeto sem que isso seja uma escolha explícita de tradução.
+- **Su Mu (苏木)** é o irmão mais novo de Su Yan. O encontro inicial de Yang Kai com Su Yan acontece por meio das interações anteriores com Su Mu; o índice consultado lista Su Mu pela primeira vez no manhua no capítulo 13.
+- **Sun Yu** é outro personagem: discípulo do Palácio Fênix Dragão, ligado ao arco do Vale do Dragão e à herança do Dragão. Não é irmão de Su Yan e não deve ser confundido com Su Mu.
+- A fala anterior do usuário “Sun Yu” referindo-se ao irmão de Su Yan foi corrigida para **Su Mu**. Isso não autoriza alterar resultados canônicos: qualquer confronto de Yang Kai com Su Mu deve ser adaptado conforme a cena da edição do manhua escolhida, ainda pendente de verificação direta.
+
+Referências de localização (índices, não substituem a conferência do manhua): [Su Yan](https://martial-peak-mp.fandom.com/wiki/Su_Yan), [Su Mu](https://martial-peak-mp.fandom.com/wiki/Su_Mu), [Sun Yu](https://martial-peak-mp.fandom.com/wiki/Sun_Yu). A identidade de Su Yan como portadora da linhagem/fonte da Fênix de Gelo também é descrita na página de referência de Su Yan.
