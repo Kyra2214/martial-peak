@@ -1,3 +1,7 @@
+> **AVISO DE FASE 4 — MATERIAL LEGADO EM REVISÃO:** este arquivo não é fonte de cânone nem roteiro aprovado. Ele contém mecânicas, NPCs, diálogos e/ou acontecimentos ainda não verificados e pode contradizer o escopo atual. Consulte [o registro canônico](../00-planejamento/FASE-4-REGISTRO-CANONICO.md) e o [roteiro mestre de trabalho](ROTEIRO-MESTRE-TEMPORADA-1-V1.md). Não implementar nem promover seus detalhes a cânone antes da revisão.
+
+---
+
 # Capítulo 3: As ervas do pátio e o Livro Negro (diálogos)
 
 Diálogos originais para o jogo, baseados na descrição do usuário sobre o manhwa. Local exato do livro, regras do incenso e nomes são [VERIFICAR].
