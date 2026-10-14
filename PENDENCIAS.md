@@ -91,3 +91,11 @@ Esses itens só podem ser reaproveitados como propostas de jogo se não alterare
 - [ ] Aplicar a matriz aos roteiros restantes, começando pela abertura, e retirar substituições incorretas de itens dos roteiros ativos.
 
 A Fase 4 continua **EM ANDAMENTO**; esta atualização melhora o método e corrige a direção da cena, mas não substitui a verificação capítulo a capítulo.
+
+
+## Sistema de cura — decisão aprovada em 2026-10-14
+
+- [x] Diferenciar pomadas e pílulas: pomadas curam pouco e são fáceis de obter; pílulas curam mais, ficam mais difíceis de obter conforme o grau e podem ser compradas por preços crescentes.
+- [ ] Harmonizar os graus e nomes das pílulas com a tradução canônica escolhida.
+- [ ] Definir números de cura, preços, estoque e regras de uso durante o balanceamento.
+- [ ] Garantir que comerciantes e consumíveis estejam disponíveis apenas quando a cronologia justificar.
