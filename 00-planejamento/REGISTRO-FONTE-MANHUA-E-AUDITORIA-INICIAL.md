@@ -1,0 +1,69 @@
+# Registro da fonte do manhua e auditoria inicial
+
+**Status:** fonte candidata identificada; leitura visual direta ainda não validada.  
+**Data da verificação:** 2026-10-14.  
+**Escopo desta entrega:** localizar uma edição identificável do manhua e registrar fatos verificáveis sem misturar numeração da novel e do manhua.
+
+## 1. Fonte de referência do manhua
+
+- **Obra:** *Martial Peak* / 武炼巅峰.
+- **Plataforma identificada:** WebNovel.
+- **Página do capítulo 1 do manhua:** https://www.webnovel.com/comic/martial-peak_14866013705882901/001_43314488371365883
+- **Página-base da série:** https://www.webnovel.com/comic/martial-peak_14866013705882901/0
+- **Identificador da série na URL:** `14866013705882901`.
+- **Identificador exibido para o capítulo inicial:** `001`.
+- **Estado de acesso nesta verificação:** o índice de busca localizou a página, mas o conteúdo visual retornou erro de carregamento/404 no extrator. Portanto, a existência da página é evidência de localização, não prova de que os quadros foram inspecionados.
+- **Referência institucional sobre a adaptação:** Yuewen IP lista *Martial Peak* como obra de quadrinhos e resume o início de Yang Kai como discípulo de prova/varredor que encontra o Livro Negro sem palavras: https://www.yuewen.com/en/ipworks/detail?id=10
+
+## 2. Hierarquia e limites das fontes
+
+1. **Manhua escolhido, com quadros efetivamente visíveis:** fonte primária para numerar e adaptar cenas do jogo.
+2. **Página institucional da adaptação:** confirma identidade geral da obra, autoria/créditos disponíveis e premissa; não substitui os quadros.
+3. **Novel *武炼巅峰* de 莫默:** fonte auxiliar para esclarecer contexto e sequência, com numeração sempre registrada separadamente.
+4. **Wikis, agregadores e índices:** pistas de localização apenas; não são prova final de um acontecimento quando não apontam para o quadro/capítulo primário.
+
+Não copiar capítulos inteiros nem usar traduções de origem/licença não confirmada como se fossem oficiais.
+
+## 3. Evidência inicial registrada
+
+| ID | Fato / pista | Fonte e localização | Confiança | Uso permitido |
+|---|---|---|---|---|
+| SRC-001 | Existe uma página de série do manhua *Martial Peak* na WebNovel. | https://www.webnovel.com/comic/martial-peak_14866013705882901/0 | Alta para localização; não prova acesso aos quadros | Identificar a edição candidata |
+| SRC-002 | O primeiro item localizado é apresentado como capítulo `001`. | https://www.webnovel.com/comic/martial-peak_14866013705882901/001_43314488371365883 | Alta para o rótulo exibido | Registrar o identificador como `001`, sem inferir correspondência com capítulo da novel |
+| SRC-003 | A sinopse institucional descreve Yang Kai como discípulo de prova/varredor e a descoberta do Livro Negro como ponto de virada. | https://www.yuewen.com/en/ipworks/detail?id=10 | Alta para a premissa geral; não determina os quadros ou o número do capítulo | Orientar o mapa macro, nunca fechar uma cena específica |
+| SRC-004 | A busca por uma página de capítulo não retornou quadros visíveis nesta verificação. | Resultado indexado da página WebNovel; erro de carregamento/404 | Alta quanto à limitação observada nesta sessão | Impede declarar auditoria visual concluída |
+
+## 4. Matriz inicial de cenas — sem fechar mapeamentos pendentes
+
+| Evento | Novel (número separado) | Manhua | Fato canônico a preservar | Adaptação permitida | Estado |
+|---|---:|---|---|---|---|
+| Yang Kai como discípulo de prova e varredor | Capítulo da novel ainda deve ser citado na ficha específica | Capítulo 1 é indicado por índices secundários; quadros não verificados nesta sessão | Começo humilde, dificuldade de cultivo e persistência de Yang Kai | Condensar rotina repetitiva; não inventar missão obrigatória | Parcial; conferir quadros |
+| Descoberta do Livro Negro sem palavras | A novel tem capítulo 4 intitulado 黑书 (“Livro Negro”) no catálogo consultado | Número do manhua ainda não confirmado por inspeção direta | O Livro Negro é o ponto de virada | Tutorial opcional pode ensinar interação, sem mudar causa ou consequência | Parcial |
+| Osso dourado / temperamento corporal | O catálogo da novel contém o capítulo 5 傲骨金身; outras fontes secundárias sugerem capítulos iniciais distintos para o manhua | Pendente | Preservar ordem, mecanismo e consequência da herança | Sistema de progressão só depois da cena ser confirmada | Pendente |
+| Incensário | A novel tem capítulo 14 香炉 no catálogo consultado | Número do manhua não confirmado | Não substituir objeto, efeito ou contexto por suposição | Mecânica pode condensar uso repetitivo após confirmar a cena | Pendente |
+| Xiao e pomada medicinal | Referência exata ainda não localizada visualmente | Pendente | Preservar a pomada; não trocar por pílula de cura inventada | Diálogo pode ser condensado sem alterar gesto, motivo ou consequência | Pendente |
+| Vale do Dragão / Sun Yu / Lago da Fênix | Âncora de pesquisa na novel: capítulos 829–842, a confirmar cena por cena | Pendente | Preservar a sequência e o desfecho antes da primeira partida do Palácio Dragão-Fênix | Exploração opcional não pode alterar resultados fixos do cânone | Pendente |
+
+## 5. Regra de numeração
+
+Cada referência futura deve conter, em campos distintos:
+
+- `novel_capitulo` e `novel_titulo`;
+- `manhua_capitulo` e `manhua_titulo` (quando disponível);
+- URL direta da cena/capítulo;
+- `tipo_evidencia`: quadro visual, texto institucional, catálogo da novel, wiki/índice ou inferência;
+- `status_verificacao`: confirmado visualmente, corroborado, pista ou pendente;
+- fato canônico, compressão proposta e mecânica de jogo separadas.
+
+É proibido preencher o número do manhua copiando o número da novel.
+
+## 6. Critério de conclusão desta frente
+
+Esta frente **não está concluída** enquanto os capítulos e quadros do manhua não puderem ser inspecionados diretamente de forma consistente. A página WebNovel fica registrada como edição candidata por ser uma fonte identificável da série, mas o acesso visual bloqueado precisa ser resolvido antes de fechar os mapeamentos. Se necessário, usar capturas/capítulos fornecidos pelo usuário como evidência primária, registrando edição e numeração mostrada.
+
+## 7. Próximas ações objetivas
+
+1. Conseguir acesso visual reproduzível à edição selecionada, sem alternar silenciosamente entre edições.
+2. Confirmar visualmente os capítulos iniciais e registrar o mapeamento do Livro Negro, osso dourado, temperamento corporal, incensário e cena de Xiao/pomada.
+3. Avançar cronologicamente até Vale do Dragão, Sun Yu, Lago da Fênix e primeira saída do Palácio Dragão-Fênix, mantendo uma linha por acontecimento importante.
+4. Só então consolidar o roteiro jogável e corrigir os roteiros legados com referências rastreáveis.
