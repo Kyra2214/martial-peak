@@ -62,3 +62,8 @@ Esses itens podem ser mantidos somente como mecânicas ou cenas originais opcion
 ## 6. Regra de aceite
 
 A Fase 4 só pode ser marcada concluída quando houver: (a) edição de referência fixada; (b) matriz de todas as cenas canônicas até o final; (c) roteiro jogável de todos os macroarcos; (d) cada fala identificada como original do RPG ou citação de fonte; (e) auditoria de continuidade; e (f) roteiro antigo explicitamente substituído. Este documento, sozinho, não satisfaz todos esses critérios.
+
+
+## Princípio de adaptação para jogo
+
+**Não adaptar capítulo por capítulo de forma literal.** O manhua é a fonte da história, mas o RPG tem ritmo próprio. Vários capítulos podem ser condensados numa cena jogável ou numa transição. Preservar os fatos, as motivações, os personagens, as revelações e as consequências canônicas; resumir ou omitir repetição, deslocamento e ações sem peso narrativo. Locais importantes, como leilões, podem continuar exploráveis, mas o evento não precisa ocupar tempo proporcional ao número de capítulos. Jogador pode explorar, conversar e escolher abordagem dentro dos limites do cânone; não pode alterar resultados essenciais. Para cada bloco, registrar cenas de origem, fatos preservados, conteúdo condensado/omitido, espaço explorável, interação do jogador, resultado fixo e transição.
