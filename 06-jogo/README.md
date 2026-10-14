@@ -5,7 +5,7 @@ Engine decidida em 2026-10-14: **Godot 4** (GDScript, renderer Compatibility, bo
 ## Como rodar
 1. Instale o Godot 4.3 ou superior.
 2. Abra a pasta `06-jogo/` como projeto (Import) e aperte F5.
-3. Controles: WASD ou setas para andar, E/Espaço/Enter para interagir e avançar diálogo. No celular aparecem botões na tela.
+3. Controles: WASD ou setas para andar, E/Espaço/Enter para interagir e avançar diálogo. Os botões touch ficam visíveis na tela e funcionam no celular, tablet e navegador com toque.
 
 ## O que já existe (vertical slice do Cap. de jogo 01, provisório)
 - Pátio do Pavilhão (placeholder gráfico), movimento e interação.
