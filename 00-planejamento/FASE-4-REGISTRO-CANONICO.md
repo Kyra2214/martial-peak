@@ -86,3 +86,13 @@ Ver: [Matriz de adaptação de cenas e itens](MATRIZ-DE-ADAPTACAO-CENAS-E-ITENS.
 - A fala anterior do usuário “Sun Yu” referindo-se ao irmão de Su Yan foi corrigida para **Su Mu**. Isso não autoriza alterar resultados canônicos: qualquer confronto de Yang Kai com Su Mu deve ser adaptado conforme a cena da edição do manhua escolhida, ainda pendente de verificação direta.
 
 Referências de localização (índices, não substituem a conferência do manhua): [Su Yan](https://martial-peak-mp.fandom.com/wiki/Su_Yan), [Su Mu](https://martial-peak-mp.fandom.com/wiki/Su_Mu), [Sun Yu](https://martial-peak-mp.fandom.com/wiki/Sun_Yu). A identidade de Su Yan como portadora da linhagem/fonte da Fênix de Gelo também é descrita na página de referência de Su Yan.
+
+## 9. Padronização do nome de Xia Ning Chang — 2026-10-14
+
+- **Nome canônico padronizado no registro:** Xia Ning Chang (夏凝裳).
+- **Variantes de referência nos rascunhos:** “Xiao” e “Irmã Xiao”.
+- **Regra de identidade:** todas essas referências apontam para a mesma personagem; não cadastrar “Xiao” como uma NPC separada.
+- **Migração de material legado:** ao encontrar “Xiao” ou “Irmã Xiao”, vincular a referência a Xia Ning Chang e preservar o texto original apenas quando necessário para histórico/auditoria.
+- **Fidelidade:** usar Xia Ning Chang como nome principal nos novos documentos do RPG. A grafia de variantes de tradução pode ser registrada como alias, não como personagem duplicada.
+
+Esta padronização corrige o cadastro de nomes do projeto; não afirma, por si só, que a cena da pomada já foi verificada diretamente na edição de manhua escolhida. A verificação de cena e cronologia continua sujeita às regras e pendências da Fase 4.
